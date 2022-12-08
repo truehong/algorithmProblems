@@ -11,8 +11,9 @@ https://leetcode.com/problems/two-sum/description/
           return [seen[remaning] ,i]
          seen[v] = i 
       return []    
+ # Runtime: 58 ms 
+ # O(n)     
 ```
 
-- Runtime: 58 ms 
-- O(n) 
+
 
