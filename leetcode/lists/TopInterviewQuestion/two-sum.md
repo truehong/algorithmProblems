@@ -10,10 +10,10 @@ https://leetcode.com/problems/two-sum/description/
         if reamining in seen : 
           return [seen[remaning] ,i]
          seen[v] = i 
-      return []    
- # Runtime: 58 ms 
- # O(n)     
+      return []     
 ```
+- Runtime: 58 ms 
+- O(n)    
 
 
 
